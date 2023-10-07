@@ -35,6 +35,10 @@
 }
 
 @media (max-width: 479.98px) {
+  .banner-page__links {
+    row-gap: 12px;
+  }
+
   .banner-page__link {
     padding: 12px;
   }
